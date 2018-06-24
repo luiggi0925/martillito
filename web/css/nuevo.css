@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03/06/2018, 06:39:30 PM
+    Author     : FAMILIA
+*/
+
+body{
+   
+    background: #FFDA63;
+    display: flex ;
+    min-height: 100vh;
+    
+
+ }
+ *{
+     margin: 0;
+     padding: 0;
+     font-family: sans-serif;
+     box-sizing: border-box;
+     
+ }
+
+ form{
+     margin: auto;
+     width: 50%;
+     max-width: 500px;
+     background: lightpink;
+     padding:30px;
+     border:1px solid rgba(0,0,0,0,2);
+     
+ }
+ h2{
+     
+     text-align: center;
+     margin-bottom: 10px;
+     color:rgba(0,0,0,0,5);
+ }
+ input{
+     display: block;
+     padding: 10px;
+     width: 90%;
+     margin: 10px 0;
+     font-size: 20px;
+         
+ }
+ 
+ input[type ="submit"]{
+     
+     background: linear-gradient(#ffffff ,skyblue );
+     border: 0;
+     color: steelblue;
+     opacity: 0.8;
+     cursor: pointer;
+     border-radius: 20px;
+     margin-bottom: 0;
+     
+ }
+ input[type ="submit"]:hover{
+     
+     opacity: 1;
+ }

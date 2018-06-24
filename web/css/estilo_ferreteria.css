@@ -1,0 +1,16 @@
+body{
+    background-color: lightsteelblue;
+}
+.banner{
+    margin: 0 auto;
+    width: 950px;
+    height: 104px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 4px 5px 4px 8px;
+    border: 7px solid green;
+}
+
+

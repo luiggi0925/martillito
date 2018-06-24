@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30/05/2018, 10:58:39 PM
+    Author     : FAMILIA
+*/
+
+
+    .main-header {background-color:blue;
+                    padding-left:15px;
+                    padding-right:15px;
+                    padding-top:10px;
+                    padding-bottom:10px;
+            }
+            .nav-link{
+               
+                color: aliceblue;
+                margin-right: 4px;
+            }
+            .text-center{
+                
+                text-align: center;
+            }
+            .red-text{
+                
+               color:red;
+            }
+            .main-container{
+                min-height: 100vh;
+            }
+            
+            .pacifico{
+                
+                font-family: 'Pacifico',cursive;
+            }
+            
+            .anton{
+               
+                font-family: 'Anton', sans-serif;
+            }
+            .one{
+                
+              
+                font-family: 'Bowlby One SC', cursive;
+            }
